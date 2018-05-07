@@ -1,0 +1,12 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\CommerceProject.pdb
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\obj\Debug\CommerceProject.csprojResolveAssemblyReference.cache
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\obj\Debug\CommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\2-pood-open-closed-principle-exercise-files\Demo\OCP\TestProject1\obj\Debug\CommerceProject.pdb
